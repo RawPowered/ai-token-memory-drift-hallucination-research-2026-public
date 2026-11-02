@@ -13,23 +13,26 @@
 
 ---
 
-## Research visual series: four educational slides and two evidence figures
+## Research visual series: four reviewed graphics and two evidence figures
 
-The repository contains **four educational slides plus two supporting figures**, all as self-contained 16:9 vector (SVG) graphics. Their contents have text equivalents below for accessibility, citations, and auditability.
+The repository contains **four reviewed 16:9 PNG graphics**, companion SVG text editions, and two supporting SVG figures. The reviewed graphics retain the supplied RawPowered visual style with corrections to scientific wording and measurement definitions. Text equivalents and citations appear below; the [graphics review](GRAPHICS_REVIEW.md) records sources, changes, and mathematical checks.
 
 | # | Slide | Key concepts |
 |:--:|---|---|
-| 01 | [How Tokens Work](figures/01-how-tokens-work.svg) | Tokenization, autoregressive generation, hypothetical context budget |
-| 02 | [How Session Memory Operates](figures/02-session-memory.svg) | Learned parameters, active context, external memory, attention |
-| 03 | [Mathematical Growth of Drift / Error Probability](figures/03-error-probability.svg) | First-error survival model, correct/incorrect state transitions, measurement slope |
-| 04 | [How Prompting Affects Your Session](figures/04-prompting-and-reliability.svg) | Context quality, compounding errors, practical mitigations |
+| 01 | [How Tokens Work](figures/01-how-tokens-work-reviewed.png) / [SVG](figures/01-how-tokens-work.svg) | Tokenization, autoregressive generation, hypothetical context budget |
+| 02 | [How Session Memory Operates](figures/02-session-memory-reviewed.png) / [SVG](figures/02-session-memory.svg) | Learned parameters, active context, external memory, attention |
+| 03 | [Illustrative Models of Drift / Error Probability](figures/03-error-probability-reviewed.png) / [SVG](figures/03-error-probability.svg) | First-error survival model, correct/incorrect state transitions, measurement slope |
+| 04 | [How Prompting Affects Your Session](figures/04-prompting-reliability-reviewed.png) / [SVG](figures/04-prompting-and-reliability.svg) | Context quality, compounding errors, practical mitigations |
 | 05 | [Published Model Reference Specifications](figures/05-published-model-specs.svg) | Published parameter counts, context configuration caveats |
 | 06 | [Educated Approximation: First Error & Recovery](figures/06-educated-approximation.svg) | Explicitly assumed per-turn hazards and correction sensitivity |
 
-![01 — How Tokens Work](figures/01-how-tokens-work.svg)
-![02 — How Session Memory Operates](figures/02-session-memory.svg)
-![03 — Mathematical Growth of Drift / Error Probability](figures/03-error-probability.svg)
-![04 — How Prompting Affects Your Session](figures/04-prompting-and-reliability.svg)
+![01 — How Tokens Work: English token estimate and hypothetical context budget](figures/01-how-tokens-work-reviewed.png)
+
+![02 — How Session Memory Operates: parameters, active context, external memory, and attention](figures/02-session-memory-reviewed.png)
+
+![03 — Illustrative models: first-error probability, recovery, and unsupported-claim measurement](figures/03-error-probability-reviewed.png)
+
+![04 — How prompting affects a session: context quality, evidence, and verification](figures/04-prompting-reliability-reviewed.png)
 
 ### Additional evidence and explanatory graphics
 
@@ -37,7 +40,7 @@ The repository contains **four educational slides plus two supporting figures**,
 
 ![06 — Educated Approximation: First Error & Recovery](figures/06-educated-approximation.svg)
 
-*The SVG editions are resolution-independent research graphics. Numerical examples are labeled hypothetical and should not be presented as measurements of a particular model.*
+*The PNGs are the reviewed presentation editions; SVG companions provide editable text layouts. Numerical examples are hypothetical. The proposed error models and prompting practices require evaluation on a defined workload.*
 
 ---
 

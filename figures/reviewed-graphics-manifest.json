@@ -1,0 +1,34 @@
+[
+  {
+    "file": "figures/01-how-tokens-work-reviewed.png",
+    "edition": "reviewed-v1",
+    "width": 1672,
+    "height": 941,
+    "sha256": "50a1e5efd5981d0cfda9925376c12087f1ad5eb02f670f61fa6cefb4d139bb45",
+    "source_sha256": "75e85e5410011d5ede6bb77001b34d16a4b48cc14454fb9187ecb82506f99f1a"
+  },
+  {
+    "file": "figures/02-session-memory-reviewed.png",
+    "edition": "reviewed-v1",
+    "width": 1672,
+    "height": 941,
+    "sha256": "88544ccba512cb78719d9b9d88bb6d9058aa4c3ff333a21183c14134ead073aa",
+    "source_sha256": "eca1dc1c10de9950ba248bb4fd799e6fb466e417e4829a1e4b66e187ce55abd1"
+  },
+  {
+    "file": "figures/03-error-probability-reviewed.png",
+    "edition": "reviewed-v1",
+    "width": 1672,
+    "height": 941,
+    "sha256": "090e7a091ddd501e256a3ca1b1e91acba6cd217804304d9aa858abdf59159ac6",
+    "source_sha256": "86f53405c873980fb9bba4ebd1ebbad33434412c9aa4dcb777dfa9b801105125"
+  },
+  {
+    "file": "figures/04-prompting-reliability-reviewed.png",
+    "edition": "reviewed-v1",
+    "width": 1672,
+    "height": 941,
+    "sha256": "9514ddd6ea861e8819efb862636ac1d9edb2f334a432c35254249c68d746a021",
+    "source_sha256": "32e3619334a45814072d8a0b15c77914e2d14c983bdb1c21af1ae94f0a34ef85"
+  }
+]
