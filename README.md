@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rawpowered-research-banner.svg" alt="RawPowered Research — Tokens, Session Memory and Hallucination Drift" width="100%" />
+  <img src="assets/ai-model-drift-research-banner.png" alt="RawPowered Research — Tokens, Session Memory and Hallucination Drift" width="100%" />
 </p>
 
 # Tokens, Session Memory & Hallucination Drift
